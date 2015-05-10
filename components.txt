@@ -1,6 +1,6 @@
 Spreadsheet Medium: https://docs.google.com/spreadsheets/d/1-o6uh_wjnDcKGL1BmTqwF67QNIsjJUcuUKLbet6aIg4/edit?usp=sharing
 
-ReadFromSpreadSheet Google Apps Script: https://script.google.com/d/1nQq9Y-PwAnPNyKb5UMjyUR2UuNNw5fX3uIhivItyE10WBSMOJ3bOPcjr/edit?usp=sharing
+ReadFromSpreadSheet Google Apps Script: https://script.google.com/d/19I7TBlvtgWFGkoGfbah2H52cf-BXU15yCEXergPXub__sOErpwHC8efM/edit?usp=sharing
 
 WriteToSpreadSheet Google Apps Script: https://script.google.com/d/1q-jZjiWDvkSiDFPY-kMcGONCHzYo-zk0pK_s016YWvO5tFggkJWq_R62/edit?usp=sharing
 
