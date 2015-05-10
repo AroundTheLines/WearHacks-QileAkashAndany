@@ -3,3 +3,7 @@ Spreadsheet Medium: https://docs.google.com/spreadsheets/d/1-o6uh_wjnDcKGL1BmTqw
 ReadFromSpreadSheet Google Apps Script: https://script.google.com/d/1kjRahTznVB15eHC5FvWnabLzQzqIPRo2-ft_xBXgrFB85fO4MNOrT94w/edit?usp=sharing
 
 WriteToSpreadSheet Google Apps Script: https://script.google.com/d/1q-jZjiWDvkSiDFPY-kMcGONCHzYo-zk0pK_s016YWvO5tFggkJWq_R62/edit?usp=sharing
+
+Link that allows the xadow to write to the spreadsheet: http://api.pushingbox.com/pushingbox?devid=vF68638C4307149D&RawAcc=testRawAcc&RawMic=testRawMic
+  -testRawAcc to be replaced with accelerometer value(s)
+  -testRawMic to be replaced with sound sensor value
