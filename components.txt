@@ -1,0 +1,5 @@
+Spreadsheet Medium: https://docs.google.com/spreadsheets/d/1-o6uh_wjnDcKGL1BmTqwF67QNIsjJUcuUKLbet6aIg4/edit?usp=sharing
+
+ReadFromSpreadSheet Google Apps Script: https://script.google.com/d/1kjRahTznVB15eHC5FvWnabLzQzqIPRo2-ft_xBXgrFB85fO4MNOrT94w/edit?usp=sharing
+
+WriteToSpreadSheet Google Apps Script: https://script.google.com/d/1q-jZjiWDvkSiDFPY-kMcGONCHzYo-zk0pK_s016YWvO5tFggkJWq_R62/edit?usp=sharing
