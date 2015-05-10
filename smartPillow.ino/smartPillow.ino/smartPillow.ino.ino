@@ -163,7 +163,8 @@ void logData(double x, double y, double z)
   sensorValue = analogRead(sensorPin);
   
   char tostr[150];
-  sprintf(tostr, "GET /pushingbox?devid=vF68638C4307149D&RawAcc=%f&RawMic=%f HTTP/1.1", x, sensorValue);
+
+  sprintf(tostr, "GET /pushingbox?devid=v710478E311841A3&RawAcc=%f&RawMic=%f HTTP/1.1", x, sensorValue);
 
   data = tostr;
 
